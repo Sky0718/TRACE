@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated TRACE study when using this code."
+title: "TRACE: Traceable Representation of Anatomy and Coronary Evidence"
+type: software
+license: MIT
+authors:
+  - family-names: Guan
+    given-names: Tianyi
+  - family-names: Feng
+    given-names: Ruiqing
+  - family-names: Gong
+    given-names: Xiaoxuan
+  - family-names: Long
+    given-names: Wei
