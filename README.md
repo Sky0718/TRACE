@@ -1,6 +1,6 @@
 # TRACE: **T**raceable **R**epresentation of **A**natomy and **C**oronary **E**vidence
 
-TRACE links coronary anatomy, centreline geometry, lumen measurements, lesions and supporting image evidence in structured records. This repository contains the extraction and analysis code accompanying **TRACE: Evidence-Linked Coronary Quantification from CCTA to Clinical Reports**.
+TRACE links coronary anatomy, centreline geometry, lumen measurements, lesions and supporting image evidence in structured records. This repository contains the extraction and analysis code accompanying **TRACE: Evidence-Linked Computational Representation of Coronary Quantification from CCTA to Clinical Reports**.
 
 The release contains three workflows:
 
@@ -165,7 +165,7 @@ TRACE supports research quantification and review; its outputs are not a standal
 
 ## Citation
 
-Software citation metadata are provided in [CITATION.cff](CITATION.cff). The associated study is **TRACE: Evidence-Linked Coronary Quantification from CCTA to Clinical Reports**, by Tianyi Guan, Ruiqing Feng, Xiaoxuan Gong and Wei Long.
+Software citation metadata are provided in [CITATION.cff](CITATION.cff). The associated study is **TRACE: Evidence-Linked Computational Representation of Coronary Quantification from CCTA to Clinical Reports**, by Tianyi Guan, Ruiqing Feng, Xiaoxuan Gong and Wei Long.
 
 ## License
 
